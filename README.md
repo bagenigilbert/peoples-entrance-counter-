@@ -30,6 +30,8 @@ Preview
 This project is licensed under the MIT License.
 
 Feel free to customize and use this counter application for your own projects. Contributions and suggestions are welcome.
+# deploy link
+https://gilbert2003-beep.github.io/peoples-entrance-counter-/
 
 
 
