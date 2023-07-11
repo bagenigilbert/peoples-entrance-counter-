@@ -58,14 +58,14 @@ button {
 
 #save-el {
     font-weight: bold;
-    color: rgb(64, 255, 0);
+    color: rgb(17, 255, 0);
     font-size: 25px;
 }
 .hover-text{
     color: orange;
 }
 .hover-text:hover{
-    color: #ff00ee;
+    color: #642c60;
 }
 .hover-texts{
     color: #0a02fb;
